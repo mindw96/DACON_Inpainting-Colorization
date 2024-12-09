@@ -3,7 +3,9 @@
 * Public (36 / 140)
 * Private (53 / 140)
   
-GAN with CBAM  
+Models: GAN with CBAM (Convolutional Block Attention Module)  
   
+
+Libraries
 - Pytorch
 - Lightning
